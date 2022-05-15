@@ -1,5 +1,4 @@
-public class Position {
-    import java.math.RoundingMode;
+ import java.math.RoundingMode;
 import java.text.DecimalFormat;
     public class position {
         public static void main(String[] args) {
@@ -18,4 +17,4 @@ import java.text.DecimalFormat;
         }
     }
 
-}
+
